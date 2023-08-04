@@ -71,8 +71,8 @@ gsap.from(".pg-3-txt",{
         trigger:".box",
         scroller:"body",
         // markers:true,
-        start:"top 50%",
-        end:"top -20%",
+        start:"top 40%",
+        end:"top 10%",
         
         scrub:2,
         
